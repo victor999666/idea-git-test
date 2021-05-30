@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("Hello Git3！");
         System.out.println("Hello Git4！");
         System.out.println("idea-git-test1！");
+        System.out.println("master-git-test1！");
     }
 }
